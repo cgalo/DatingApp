@@ -1,0 +1,10 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+# Ignore files in the main directory & in the API
+
+# IDE - VSCode
+.vscode/*
+
+#API
+DatingApp.API/bin
+DatingApp.API/obj
+DatingApp.API/*.db
