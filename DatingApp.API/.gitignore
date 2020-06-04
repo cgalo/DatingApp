@@ -9,3 +9,6 @@ obj
 
 #Database
 *.db
+
+#App Settings
+appsettings.json
